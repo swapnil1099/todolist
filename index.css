@@ -1,0 +1,95 @@
+.background{
+    background: #f5c7f7; 
+    margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+  position: relative;
+  
+}
+
+h1{
+    
+    margin: auto;
+  width: 30%;
+  
+  padding: 10px;
+  position: relative;
+  margin-top: 10%;
+  color: #1e549f;
+  text-shadow: #FC0 1px 0 10px;
+  font-style: italic;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.background div {
+    line-height: 1.5;
+  
+    vertical-align: middle;
+  }
+#background{
+    display: flex;
+    flex-direction: row;
+}
+h3{
+    color:#27296d;
+    position: relative;
+    margin-left: 10%;
+}
+}
+body{
+    background-color: antiquewhite;
+}
+
+#output{
+    min-height: 150px;
+    max-height: 250px;
+    overflow: scroll;
+    overflow-x: hidden;
+        
+}
+#type-box{
+  
+    border-radius: 7%;
+    border: 5%;
+    border-color: #27296d;
+}
+
+#button-add{
+    background-color: #a393eb;
+    
+}
+#button-reset{
+    background-color: #a393eb;
+}
+#output{
+    color: #5e63b6;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#type-box{
+    position: relative;
+    margin-left: 10%;
+}
+
+#output{
+    position: relative;
+    margin-left: 10%;
+}
+
+#del_btn{
+    position: relative;
+    margin-left: 5%;
+    border-radius: 15%;
+    background-color: #a393eb;
+    border-color: #27296d;
+    border-width: 25%;
+    
+}
+.check_btn{
+    position: relative;
+    margin-left: 5%;
+    border-radius: 10%;
+   
+}
+#type-box{
+    padding: 0px 5px;
+}
